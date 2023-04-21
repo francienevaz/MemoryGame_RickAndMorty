@@ -7,4 +7,8 @@ box-sizing: border-box;
 list-style: none;
 border: none;
 font-family: 'Press Start 2P', cursive;
+background-image: url(../img/bg.jpg);
+height: 100%;
+width: 100%;
+background-size: cover;
 }
