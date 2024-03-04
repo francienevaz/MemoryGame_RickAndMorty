@@ -1,3 +1,7 @@
+body {
+    background: #fdf79d;
+}
+
 .login-form {
     align-items: center;
     display: flex;
@@ -33,6 +37,10 @@
     width: 100%;
     outline: none;
     padding: 15px;
+}
+
+.login__input:focus{
+    border: 2px solid #ee665c;
 }
 
 .login__btn {
