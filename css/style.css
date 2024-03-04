@@ -2,7 +2,7 @@ main {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/backgroundII.png');
     background-size: cover;
     min-height: 100vh;
     align-items: center;
@@ -14,7 +14,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(145, 255, 0, 0.8);
     width: 100%;
     max-width: 800px;
     padding: 30px;
